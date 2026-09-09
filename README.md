@@ -236,7 +236,7 @@ It also helped me understand why a simpler baseline model is useful when evaluat
 
 ## 🎓 Academic Context
 
-This project was developed as part of the **Big Data** course in the **Data Science and Engineering** degree at the **University of Las Palmas de Gran Canaria (ULPGC)**.
+This project was developed as part of the **Big Data** course in the **Data Science and Engineering** degree at the **University of Maribor**.
 
 ---
 
